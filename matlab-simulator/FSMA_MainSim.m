@@ -1,5 +1,4 @@
 %% LoRa based Satellite IoT
-% Author: Rohith Reddy
 
 clc;
 clearvars;
